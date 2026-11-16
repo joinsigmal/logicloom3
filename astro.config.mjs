@@ -6,7 +6,7 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   //site: 'https://logicloom.iitmparadox.org',
-  site: 'https://mlig-iitmbs.github.io',
+  site: 'https://joinsigmal.github.io',
   base: 'logicloom3',
   integrations: [mdx(), sitemap(), tailwind()]
 });
